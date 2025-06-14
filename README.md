@@ -51,15 +51,12 @@ python3 SubBoudi.py
    - `Subdomains_2xx.txt`  
    - `Subdomains_3xx.txt`  
    - `Subdomains_4xx.txt`
+   - 
+## Suggestions or Improvements?
 
----
+If you have any ideas, features, or new sources you'd like to see added, feel free to reach out!  
+You’ll find my LinkedIn link displayed when the tool starts running — I’d be happy to collaborate and improve SuBoudi together.
 
-### ملاحظات:
-- خلي بالك إن اسم الملف `SuBoudi.py` لازم يكون مطابق في الشرح (كان مكتوب SubBoudi.py بالغلط).
-- تقدر تضيف كمان قسم `License` أو `Contributing` بعد كده لو حبيت.
-- لو حطيت صورة، خلي اسمها `image.png` فعلاً جوه نفس فولدر المشروع أو حطها في `assets/` وعدل الرابط.
-
-عاوزني أساعدك كمان تضيف Badge أو تعمل `GitHub Actions`؟
 
      
 
