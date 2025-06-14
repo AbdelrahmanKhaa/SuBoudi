@@ -52,3 +52,14 @@ python3 SubBoudi.py
    - `Subdomains_3xx.txt`  
    - `Subdomains_4xx.txt`
 
+---
+
+### ملاحظات:
+- خلي بالك إن اسم الملف `SuBoudi.py` لازم يكون مطابق في الشرح (كان مكتوب SubBoudi.py بالغلط).
+- تقدر تضيف كمان قسم `License` أو `Contributing` بعد كده لو حبيت.
+- لو حطيت صورة، خلي اسمها `image.png` فعلاً جوه نفس فولدر المشروع أو حطها في `assets/` وعدل الرابط.
+
+عاوزني أساعدك كمان تضيف Badge أو تعمل `GitHub Actions`؟
+
+     
+
