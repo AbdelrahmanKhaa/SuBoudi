@@ -47,7 +47,7 @@ python3 SubBoudi.py
    - Choose any topic name you like (e.g. `subscanner123`)  
    - Save it, you'll be asked to enter it when you run the script.
 
-3. Once finished of Tool, you’ll get a notification on your phone, and the script will generate:
+3. Once finished, you’ll get a notification on your phone, and the script will generate:
    - `Subdomains_2xx.txt`  
    - `Subdomains_3xx.txt`  
    - `Subdomains_4xx.txt`
