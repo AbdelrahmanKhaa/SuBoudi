@@ -14,7 +14,6 @@ This tool helps automate subdomain enumeration from multiple powerful sources an
 - `subfinder`, `assetfinder`, `httpx` installed and available in PATH
 - `curl` installed (for notifications)
 - Linux/macOS terminal (for running `crt_v2.sh` script)
-- Python package: [rich](https://pypi.org/project/rich/)
 
 ## How to install Python dependencies
 
