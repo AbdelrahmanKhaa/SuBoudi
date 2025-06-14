@@ -43,7 +43,7 @@ python3 SubBoudi.py
 
 2. **Set up your ntfy topic:**  
    - Open the ntfy app  
-   - Tap the ➕ icon in the top right  
+   - Tap the (+) icon in the top right  
    - Choose any topic name you like (e.g. `subscanner123`)  
    - Save it, you'll be asked to enter it when you run the script.
 
