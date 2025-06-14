@@ -12,16 +12,11 @@ This tool helps automate subdomain enumeration from multiple powerful sources an
 
 - Python 3.x
 - `subfinder`, `assetfinder`, `httpx` installed and available in PATH
-- `curl` installed (for notification)
-- Linux/macOS terminal (for `crt_v2.sh` script)
+- `curl` installed (for notifications)
+- Linux/macOS terminal (for running `crt_v2.sh` script)
 - Python package: [rich](https://pypi.org/project/rich/)
 
 ## How to install Python dependencies
 
 ```bash
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/SuBoudi.git
-cd SuBoudi
+pip install rich
