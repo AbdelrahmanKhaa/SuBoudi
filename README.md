@@ -44,20 +44,9 @@ python3 SubBoudi.py
    - Open the ntfy app  
    - Tap the ➕ icon in the top right  
    - Choose any topic name you like (e.g. `subscanner123`)  
-   - Save it — you'll be asked to enter it when you run the script.
+   - Save it, you'll be asked to enter it when you run the script.
 
-3. **Run the script**  
-   The script will ask:
-
-   - **Notification Topic Name** — type the one you created earlier  
-   - **Recon Mode or Manual Mode**
-     - If you choose **Recon Mode**:
-       - It will ask for the folder name to save results (saved in your home directory)
-       - Then ask for wildcard domain(s) (e.g. `example.com`)
-       - Keep pressing Enter to add multiple
-       - When you're done, press Enter on a blank line to start
-
-4. Once finished, you’ll get a notification on your phone, and the script will generate:
+3. Once finished of Tool, you’ll get a notification on your phone, and the script will generate:
    - `Subdomains_2xx.txt`  
    - `Subdomains_3xx.txt`  
    - `Subdomains_4xx.txt`
