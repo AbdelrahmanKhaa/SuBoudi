@@ -30,4 +30,10 @@ pip install rich
 git clone https://github.com/your-username/SuBoudi.git
 cd SuBoudi
 chmod +x crt_v2.sh
+```
+
+2. Run the main Python script:
+```bash
+python3 SubBoudi.py
+```
 
