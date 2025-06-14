@@ -38,7 +38,7 @@ python3 SubBoudi.py
 ```
 ## 🔧 How to Use
 
-1. **Download the [ntfy](https://ntfy.sh/app/) application on your phone**  
+1. **Download the [ntfy](https://ntfy.sh/) application on your phone**  
    This tool sends you a mobile notification when the scan finishes.
 
 2. **Set up your ntfy topic:**  
