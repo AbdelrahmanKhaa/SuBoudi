@@ -8,7 +8,6 @@ This tool helps automate subdomain enumeration from multiple powerful sources an
 - Aggregates subdomains from multiple sources.
 - Sends a notification when the scan is finished.
 - Fast and minimal Python-based tool.
-- Includes the `crt_v2.sh` script for crt.sh enumeration.
 
 ## Requirements
 
@@ -36,7 +35,7 @@ chmod +x crt_v2.sh
 ```bash
 python3 SubBoudi.py
 ```
-## 🔧 How to Use
+## How to Use
 
 1. **Download the [ntfy](https://ntfy.sh/) application on your phone**  
    This tool sends you a mobile notification when the scan finishes.
