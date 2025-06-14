@@ -26,7 +26,7 @@ pip install rich
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/SuBoudi.git
+git clone https://github.com/Boudi0x/SuBoudi.git
 cd SuBoudi
 chmod +x crt_v2.sh
 chmod +x SuBoudi.py
