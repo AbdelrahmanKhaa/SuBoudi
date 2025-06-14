@@ -49,8 +49,8 @@ python3 SubBoudi.py
 3. **Run the script**  
    The script will ask:
 
-   - 🔹 **Notification Topic Name** — type the one you created earlier  
-   - 🔹 **Recon Mode or Manual Mode**
+   - **Notification Topic Name** — type the one you created earlier  
+   - **Recon Mode or Manual Mode**
      - If you choose **Recon Mode**:
        - It will ask for the folder name to save results (saved in your home directory)
        - Then ask for wildcard domain(s) (e.g. `example.com`)
