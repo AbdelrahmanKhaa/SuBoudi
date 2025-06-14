@@ -55,7 +55,8 @@ python3 SubBoudi.py
 ## Suggestions or Improvements?
 
 If you have any ideas, features, or new sources you'd like to see added, feel free to reach out!  
-You’ll find my LinkedIn link displayed when the tool starts running — I’d be happy to collaborate and improve SuBoudi together.
+You’ll find my LinkedIn link displayed when the tool starts running.
+I’d be happy to collaborate and improve SuBoudi together.
 
 
      
