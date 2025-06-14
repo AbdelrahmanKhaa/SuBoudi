@@ -19,10 +19,6 @@ This tool helps automate subdomain enumeration from multiple powerful sources an
 ## How to install Python dependencies
 
 ```bash
-pip install rich
-
-  
-## Setup
 
 1. Clone the repository:
 
