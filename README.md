@@ -2,7 +2,7 @@
 
 This tool helps automate subdomain enumeration from multiple powerful sources and notifies you when the scan is complete.
 
-![SuBoudi Screenshot](SuBoudi.png)
+![SuBoudi Screenshot](image.png)
 
 ## Features
 - Aggregates subdomains from multiple sources.
