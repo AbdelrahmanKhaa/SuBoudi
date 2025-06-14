@@ -12,7 +12,7 @@ This tool helps automate subdomain enumeration from multiple powerful sources an
 ## Requirements
 
 - Python 3.x
-- `subfinder`, `assetfinder`, `httpx` installed and available in PATH
+- `subfinder`, `assetfinder`, `httpx` installed 
 - `curl` installed (for notifications)
 - Linux/macOS terminal (for running `crt_v2.sh` script)
 
