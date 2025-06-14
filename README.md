@@ -20,3 +20,13 @@ This tool helps automate subdomain enumeration from multiple powerful sources an
 
 ```bash
 pip install rich
+```
+## Setup and Usage
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/SuBoudi.git
+cd SuBoudi
+
+
