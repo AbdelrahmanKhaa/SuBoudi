@@ -6,7 +6,7 @@ This tool helps automate subdomain enumeration from multiple powerful sources an
 
 ## Features
 - Aggregates subdomains from multiple sources.
-- Sends a notification when the scan is finished.
+- Sends a notification after each tool finishes, and a final one when the full scan is complete.
 - Fast and minimal Python-based tool.
 
 ## Requirements
